@@ -1,1 +1,11 @@
+Nameserver:
+ELMO.NS.CLOUDFLARE.COM
+BRENNA.NS.CLOUDFLARE.COM
 
+Portfolio Awam:
+https://nazanezam.pages.dev/
+https://nazanezam.com/
+
+Private-site
+https://private-site-3lf.pages.dev/
+https://secondpass.nazanezam.com/
