@@ -1,0 +1,10 @@
+=== Docker Volumes ===
+DRIVER    VOLUME NAME
+local     me
+
+=== Docker Networks ===
+NETWORK ID     NAME      DRIVER    SCOPE
+76916ffbebff   arena     bridge    local
+0988736dc388   bridge    bridge    local
+ffc8d8e55ec0   host      host      local
+cdfe83c6c121   none      null      local
